@@ -11,8 +11,8 @@
     "slip44": 1,
     "aip20": 0,
     "client": {
-        "token": "THYD",
+        "token": "THMESH",
         "symbol": "TĦ",
-        "explorer": "https://test.explorer.hydraledger.tech"
+        "explorer": "https://test.explorer.hydramesh.net"
     }
 }
