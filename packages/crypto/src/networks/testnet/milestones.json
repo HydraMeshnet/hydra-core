@@ -3,7 +3,7 @@
         "height": 1,
         "reward": 0,
         "activeDelegates": 53,
-        "blocktime": 12,
+        "blocktime": 24,
         "block": {
             "version": 0,
             "maxTransactions": 250,
@@ -42,6 +42,6 @@
     },
     {
         "height": 7201,
-        "reward": 800000000
+        "reward": 1600000000
     }
 ]
